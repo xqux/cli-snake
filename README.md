@@ -7,8 +7,8 @@
 # Requirements
 - [x] OS: ``Windows``, ``Linux``;
 - [x] Compilers: ``any C++11 compliant``;
-- [x] Libraries: ``Boost.Program_options``;
-- [x] CMake: ``3.5+``.
+- [x] CMake ver.: ``3.5+``;
+- [x] Libraries: ``Boost.Program_options``.
 
 # Install
 1. ``git clone https://github.com/xqux/cli-snake``.
@@ -64,5 +64,5 @@
 ```
 
 # Notes
-По умолчанию исполняемый файл помещается в каталог bin корня проекта.
+По умолчанию исполняемый файл помещается в каталог _bin_ корня проекта.
 Там же располагается файл data.ssave, который хранит игровую конфигурацию и кэш.
