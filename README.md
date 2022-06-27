@@ -15,9 +15,9 @@
 
 # Overview
 
-| By Default                                 | Game Over                                 | Complex Configuration                                 |
-| ------------------------------------------ | ----------------------------------------- | ----------------------------------------------------- |
-| ![By Default](/screenshots/overview-1.png) | ![Game Over](/screenshots/overview-2.png) | ![Complex Configuration](/screenshots/overview-3.png) |
+| By Default                                 | Game Over                                 | Difficult Configuration                                 |
+| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------------- |
+| ![By Default](/screenshots/overview-1.png) | ![Game Over](/screenshots/overview-2.png) | ![Difficult Configuration](/screenshots/overview-3.png) |
 
 # Manual
 > Вы можете вызвать справку для программы.
