@@ -4,6 +4,12 @@
 
 Из-за того, что программа не нуждается в графическом интерфейсе, она не требовательна к железу. Вкупе с широким функционалом и поддержкой кроссплатформенности это делает ее незаменимым time-killer-ом на любом устройстве.
 
+# Overview
+
+| By Default                                 | Game Over                                 | Difficult Configuration                                 |
+| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------------- |
+| ![By Default](/screenshots/overview-1.png) | ![Game Over](/screenshots/overview-2.png) | ![Difficult Configuration](/screenshots/overview-3.png) |
+
 # Requirements
 - [x] OS: ``Windows``, ``Linux``;
 - [x] Compilers: ``any C++11 compliant``;
@@ -12,12 +18,6 @@
 
 # Install
 1. ``git clone https://github.com/xqux/cli-snake``.
-
-# Overview
-
-| By Default                                 | Game Over                                 | Difficult Configuration                                 |
-| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------------- |
-| ![By Default](/screenshots/overview-1.png) | ![Game Over](/screenshots/overview-2.png) | ![Difficult Configuration](/screenshots/overview-3.png) |
 
 # Manual
 > Вы можете вызвать справку для программы.
