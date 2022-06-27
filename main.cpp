@@ -15,7 +15,7 @@ int tmain(int argc, TCHAR *argv[])
 	po::options_description desc;
 	desc.add_options()
 		("help,h", "")
-		("record,r", "")
+		("records,r", "")
 		("size-board,s", po::value<std::vector<short>>()->multitoken()
 			->default_value(std::vector<short>{ 70, 20 }, "70 25"), "")
 		("walk-through-walls,w", po::value<bool>(&walk_through_walls)
