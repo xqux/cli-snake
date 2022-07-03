@@ -17,10 +17,17 @@
 - [x] Libraries: ``Boost.Program_options``.
 
 # Install
+## Unix
 1. ``git clone https://github.com/xqux/cli-snake``;
 2. ``cmake -DCMAKE_BUILD_TYPE=Release -S ./cli-snake -B ./cli-snake/build``;
 3. ``cmake --build ./cli-snake/build``;
 4. ``./cli-snake/bin/cli-snake``.
+
+## Windows
+1. ``git clone https://github.com/xqux/cli-snake``;
+2. ``cmake -S ./cli-snake -B ./cli-snake/build``;
+3. ``cmake --build ./cli-snake/build --config Release``;
+4. ``./cli-snake/bin/cli-snake.exe``.
 
 # Manual
 > Вы можете вызвать справку для программы.
